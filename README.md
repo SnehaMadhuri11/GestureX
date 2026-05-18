@@ -138,10 +138,6 @@ Contributions are welcome to help optimize mathematical coordinate arrays, expan
 
 ---
 
-## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-```
 
 ```
